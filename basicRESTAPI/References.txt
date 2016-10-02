@@ -1,0 +1,10 @@
+##REFERENCES USED
+
+https://strongloop.com/strongblog/node-js-java-getting-started/
+https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1?jmp=docs&_ga=1.73143571.1857625941.1461593283
+http://stackoverflow.com/questions/5370846/how-do-you-use-mongoose-without-defining-a-schema
+http://mongoosejs.com/docs/schematypes.html#mixed
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+http://stackoverflow.com/questions/28764822/req-body-cant-be-read-as-an-array
+http://stackoverflow.com/questions/14103615/mongoose-get-full-list-of-users
+http://stackoverflow.com/questions/23271250/express-when-to-check-content-type
